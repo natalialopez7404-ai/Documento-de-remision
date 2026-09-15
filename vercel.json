@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/factura_output.html", "destination": "/index.html" }
+  ]
+}
